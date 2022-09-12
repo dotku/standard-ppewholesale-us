@@ -4,4 +4,4 @@
 | --- | --- | --- | --- |
 | Test Kits | iHealth | 26 | 182,000 | 
 | KF 94 | O2Wear | | 2,000,000 |
-| eBike | OUXI | | 420 |
+| eBike V5 | OUXI | | 420 |
