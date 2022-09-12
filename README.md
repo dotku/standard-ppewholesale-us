@@ -1,5 +1,6 @@
 # standard-ppewholesale-us
 
-| Brand | pallet/truck | pc/truck |
+| Product Name | Brand | pallet/truck | pc/truck |
 | --- | --- | --- |
-| iHealth | 26 | 182000 | 
+| Test Kits | iHealth | 26 | 182000 | 
+| KF 94 | O2Wear | | 2000,000 |
